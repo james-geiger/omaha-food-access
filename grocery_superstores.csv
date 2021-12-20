@@ -1,0 +1,76 @@
+placekey,location_name,category,naics_code,latitude,longitude,street_address,city,region,postal_code,iso_country_code
+223-222@5p2-2gd-qvf,ALDI,grocery,445110,41.291477,-96.185463,17240 Evans St,Omaha,NE,68116,US
+zzy-222@5p2-2vx-bzf,ALDI,grocery,445110,41.23481,-96.216229,19261 Gold Street,Omaha,NE,68130,US
+222-222@5p2-2jr-mc5,ALDI,grocery,445110,41.159953,-95.943731,2112 Cornhusker Rd,Bellevue,NE,68123,US
+zzw-222@5p2-2k8-n3q,ALDI,grocery,445110,41.235627,-96.122859,2502 S 133rd Plz Ste 105,Omaha,NE,68144,US
+zzw-222@5p2-2mv-d9z,ALDI,grocery,445110,41.290953,-96.051946,3433 N 90th St,Omaha,NE,68134,US
+222-222@5p2-2jx-cyv,ALDI,grocery,445110,41.214515,-95.957941,4525 Dahlman Ave,Omaha,NE,68107,US
+zzw-222@5p2-2m7-bhq,ALDI,grocery,445110,41.302381,-95.956014,4801 N 30th St,Omaha,NE,68111,US
+222-223@5p2-2jm-mx5,ALDI,grocery,445110,41.252056,-96.022554,885 S 72nd St,Omaha,NE,68114,US
+zzw-225@5p2-2k8-7kf,Baker's Supermarkets,grocery,445110,41.232685,-96.101975,12025 W Center Rd,Omaha,NE,68144,US
+zzw-222@5p2-2f9-tsq,Baker's Supermarkets,grocery,445110,41.294765,-96.121295,13250 W Maple Rd,Omaha,NE,68164,US
+zzw-223@5p2-2tx-5mk,Baker's Supermarkets,grocery,445110,41.236046,-96.186107,17370 Lakeside Hills Plz,Omaha,NE,68130,US
+222-223@5ny-fdd-z2k,Baker's Supermarkets,grocery,445110,41.142399,-95.968707,3614 Twin Creek Dr,Bellevue,NE,68123,US
+222-224@5p2-2n4-v4v,Baker's Supermarkets,grocery,445110,41.2984,-96.021992,4405 N 72nd St,Omaha,NE,68134,US
+zzw-223@5p2-2v2-6rk,Baker's Supermarkets,grocery,445110,41.263739,-96.15491,505 N 155th Plz,Omaha,NE,68154,US
+223-224@5p2-2n2-q2k,Baker's Supermarkets,grocery,445110,41.308659,-96.050636,5555 N 90th St,Omaha,NE,68134,US
+zzw-224@5p2-32f-pgk,Baker's Supermarkets,grocery,445110,41.326214,-95.958572,7312 N 30th St,Omaha,NE,68112,US
+222-225@5ny-f4p-g6k,Baker's Supermarkets,grocery,445110,41.153254,-95.915672,801 Galvin Rd S,Bellevue,NE,68005,US
+zzw-222@5p2-2jk-9vf,Baker's Supermarkets,grocery,445110,41.251059,-95.987215,888 S Saddle Creek Rd,Omaha,NE,68106,US
+222-222@5p2-2vv-j5f,Family Fare,grocery,445110,41.246862,-96.231146,1221 S 203rd St,Omaha,NE,68130,US
+222-224@5p2-2kj-z9f,Family Fare,grocery,445110,41.174814,-96.044905,1230 N Washington St,Papillion,NE,68046,US
+zzw-223@5p2-2v3-fmk,Family Fare,grocery,445110,41.235987,-96.140418,14444 W Center Rd,Omaha,NE,68144,US
+223-222@5ny-f4h-bc5,Family Fare,grocery,445110,41.141967,-95.913143,1510 Harlan Dr,Bellevue,NE,68005,US
+222-222@5p2-2mt-nbk,Family Fare,grocery,445110,41.283106,-96.054451,2650 N 90th St,Omaha,NE,68134,US
+222-223@5p2-2my-c5z,Family Fare,grocery,445110,41.285538,-96.07979,3003 N 108th St,Omaha,NE,68164,US
+223-222@5p2-2mj-2tv,Family Fare,grocery,445110,41.230972,-95.948141,3026 S 24th St,Omaha,NE,68108,US
+zzw-222@5p2-2jc-835,Family Fare,grocery,445110,41.226237,-95.991992,5019 Grover St,Omaha,NE,68106,US
+222-222@5p2-2k2-3t9,Family Fare,grocery,445110,41.189865,-95.995059,5101 Harrison St,Bellevue,NE,68157,US
+zzw-223@5p2-2k9-575,Family Fare,grocery,445110,41.206294,-96.083495,5110 S 108th St,Omaha,NE,68137,US
+222-223@5p2-32f-nqz,Family Fare,grocery,445110,41.327017,-95.959857,7402 N 30th St,Omaha,NE,68112,US
+zzw-222@5p2-2m5-bp9,Family Fare,grocery,445110,41.265517,-95.98225,820 N Saddle Creek Rd,Omaha,NE,68132,US
+zzw-222@5p2-2fh-3qz,Fareway Stores,grocery,445110,41.307068,-96.11893,13150 Fort St,Omaha,NE,68164,US
+223-222@5p2-2kn-49z,Fareway Stores,grocery,445110,41.175465,-96.026669,1325 Jersey St,Papillion,NE,68046,US
+223-222@5p2-2sc-k9f,Fareway Stores,grocery,445110,41.1903,-96.181468,17070 Audrey St,Omaha,NE,68136,US
+226-222@5p2-2kd-4qf,Fareway Stores,grocery,445110,41.234998,-96.051857,8900 W Center Rd Ste 106,Omaha,NE,68124,US
+zzw-222@5p2-2v4-vpv,Hy-Vee,grocery,445110,41.25045,-96.194206,1000 S 178th St,Omaha,NE,68118,US
+222-223@5p2-2h5-jsq,Hy-Vee,grocery,445110,41.308024,-96.082668,10808 Fort St,Omaha,NE,68164,US
+zzw-223@5ny-fd9-73q,Hy-Vee,grocery,445110,41.135011,-96.026794,11650 S 73rd St,Papillion,NE,68046,US
+zzw-222@5p2-2vj-dgk,Hy-Vee,grocery,445110,41.197394,-96.142213,14591 Stoney Brook Blvd,Omaha,NE,68137,US
+222-224@5p2-2s9-mrk,Hy-Vee,grocery,445110,41.207152,-96.193786,17810 Welch Plz,Omaha,NE,68135,US
+222-224@5p2-2ff-73q,Hy-Vee,grocery,445110,41.289753,-96.160606,3410 N 156th St,Omaha,NE,68116,US
+222-223@5p2-2jj-gtv,Hy-Vee,grocery,445110,41.242292,-95.994422,5150 Center St,Omaha,NE,68106,US
+222-223@5p2-2fg-h89,Hy-Vee,grocery,445110,41.265969,-96.118093,747 N 132nd St,Omaha,NE,68154,US
+zzw-225@5p2-2mz-qzz,Hy-Vee,grocery,445110,41.265695,-96.039464,7910 Cass St,Omaha,NE,68114,US
+223-223@5p2-32g-j9z,Hy-Vee,grocery,445110,41.336649,-95.961092,8404 N 30th St,Omaha,NE,68112,US
+223-225@5p2-2kd-6zf,Hy-Vee,grocery,445110,41.232955,-96.051756,8809 W Center Rd,Omaha,NE,68124,US
+zzw-226@5p2-2kv-gff,Hy-Vee,grocery,445110,41.203994,-96.063581,9707 Q St,Omaha,NE,68127,US
+222-222@5p2-2tm-3h5,McKinney's Food Center,grocery,445110,41.146347,-96.236027,215 Enterprise Dr,Gretna,NE,68028,US
+zzw-222@5p2-2m6-m6k,Phil's Foodway,grocery,445110,41.300072,-95.95805,3030 Ames Ave,Omaha,NE,68111,US
+zzw-223@5p2-2md-qmk,Supermercado Nuestra Familia,grocery,445110,41.232702,-95.941651,1826 Vinton St,Omaha,NE,68108,US
+zzw-222@5p2-2mr-fxq,Supermercado Nuestra Familia,grocery,445110,41.252708,-95.955424,2900 Leavenworth St,Omaha,NE,68105,US
+223-222@5p2-2jw-yy9,Supermercado Nuestra Familia,grocery,445110,41.205815,-95.966502,3548 Q St,Omaha,NE,68107,US
+zzw-223@5p2-2vg-6x5,Target,super store with grocery,452210,41.214445,-96.107893,12500 K Plz,Omaha,NE,68137,US
+222-222@5p2-2gd-zfz,Target,super store with grocery,452210,41.28934,-96.180161,16959 Evans Plz,Omaha,NE,68116,US
+222-223@5p2-2tx-ndv,Target,super store with grocery,452210,41.236393,-96.193246,17810 W Center Rd,Omaha,NE,68130,US
+222-223@5ny-fdd-z75,Target,super store with grocery,452210,41.142452,-95.970153,3808 Twin Creek Dr,Bellevue,NE,68123,US
+zzw-225@5p2-2f9-vj9,Target,super store with grocery,452210,41.294895,-96.116711,4001 N 132nd St,Omaha,NE,68164,US
+222-223@5p2-33d-6p9,Target,super store with grocery,452210,41.319341,-96.027615,6636 N 73rd Plz,Omaha,NE,68122,US
+222-222@5p2-2kp-ysq,Target,super store with grocery,452210,41.165317,-96.04537,718 N Washington St,Papillion,NE,68046,US
+zzw-223@5p2-2mw-bc5,Target,super store with grocery,452210,41.261447,-96.024958,7200 Dodge St,Omaha,NE,68114,US
+222-223@5p2-2f9-rkz,Walmart Neighborhood Market,grocery,452319,41.290925,-96.117647,13105 Birch Dr,Omaha,NE,68164,US
+222-223@5ny-f4k-qcq,Walmart Neighborhood Market,grocery,452319,41.116156,-95.942671,2109 Towne Centre Dr,Bellevue,NE,68123,US
+222-222@5p2-2mt-whq,Walmart Neighborhood Market,grocery,452319,41.280945,-96.051383,2451 N 90th St,Omaha,NE,68134,US
+zzw-222@5p2-2m5-7wk,Walmart Neighborhood Market,grocery,452319,41.262288,-95.981189,360 N Saddle Creek Rd,Omaha,NE,68131,US
+zzw-223@5p2-2jb-pjv,Walmart Neighborhood Market,grocery,452319,41.211888,-95.993108,5051 L St,Omaha,NE,68117,US
+222-223@5p2-2sc-5xq,Walmart Neighborhood Market,grocery,452319,41.192111,-96.176562,6710 S 167th St,Omaha,NE,68135,US
+222-223@5p2-2kp-bkz,Walmart Neighborhood Market,grocery,452319,41.17773,-96.059977,9460 Giles Rd,La Vista,NE,68128,US
+zzw-223@5ny-f4t-94v,Walmart Supercenter,super store with grocery,452319,41.156225,-95.936492,10504 S 15th St,Bellevue,NE,68123,US
+222-222@5p2-2sj-rtv,Walmart Supercenter,super store with grocery,452319,41.143246,-96.165882,11350 Wickersham Blvd,Gretna,NE,68028,US
+222-224@5p2-2vg-52k,Walmart Supercenter,super store with grocery,452319,41.214846,-96.114411,12850 L St,Omaha,NE,68137,US
+zzw-223@5p2-2jk-vxq,Walmart Supercenter,super store with grocery,452319,41.244134,-96.025098,1606 S 72nd St,Omaha,NE,68124,US
+222-224@5p2-2gd-grk,Walmart Supercenter,super store with grocery,452319,41.294595,-96.179922,16960 W Maple Rd,Omaha,NE,68116,US
+222-222@5p2-2tw-wrk,Walmart Supercenter,super store with grocery,452319,41.231296,-96.198533,18201 Wright St,Omaha,NE,68130,US
+zzw-222@5p2-2m9-dvz,Walmart Supercenter,super store with grocery,452319,41.301806,-95.991,5018 Ames Ave,Omaha,NE,68104,US
+zzw-222@5p2-2h2-x89,Walmart Supercenter,super store with grocery,452319,41.31516,-96.068559,6304 N 99th St,Omaha,NE,68134,US
+222-222@5p2-2kn-2kz,Walmart Supercenter,super store with grocery,452319,41.174614,-96.020314,8525 S 71st Plz,Papillion,NE,68133,US
